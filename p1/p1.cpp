@@ -1,3 +1,11 @@
+/*
+    Morgan Armstrong
+    cs371
+    9/13/18
+    Purpose: Convert input in the form of Roman Numerals (up to 100)
+             and output the equivalent base 10 value.
+*/
+
 #include <iostream>     // For user input + output
 #include <string>       // For roman numeral input
 #include <algorithm>    // For transform->input to uppercase
