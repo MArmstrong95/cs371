@@ -8,13 +8,13 @@ CSCI 371
 <h3>Method:</h3> Create and implement a Finite state machine.  It should have a next state table and an action table.
 
 
-<li><h4>Sample Input:
+<h4>Sample Input:
 <li>IV
 <li>XIII
 <li>XIIII
 <li>XIV
 
-<li><h4>Sample Output:
+<h4>Sample Output:
 <li>IV = 4
 <li>XIII = 13
 <li>XIIII = error, not a Roman Number
