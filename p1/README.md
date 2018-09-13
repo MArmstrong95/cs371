@@ -1,22 +1,21 @@
-Programming Project 1
+<h1>Programming Project 1
 CSCI 371                                                
 
-Simulate a FSM
+<h2>Simulate a FSM
 
-Purpose: Convert input in the form of Roman Numerals (up to 100) and output the equivalent base 10 value.
+<h3>Purpose:</h3> Convert input in the form of Roman Numerals (up to 100) and output the equivalent base 10 value.
 
-Method: Create and implement a Finite state machine.  It should have a next state table and an action table.
+<h3>Method:</h3> Create and implement a Finite state machine.  It should have a next state table and an action table.
 
 
+<li><h4>Sample Input:
+<li>IV
+<li>XIII
+<li>XIIII
+<li>XIV
 
-Sample Input
-IV
-XIII
-XIIII
-XIV
-
-Sample Output
-IV = 4
-XIII = 13
-XIIII = error, not a Roman Number
-XIV = 14
+<li><h4>Sample Output:
+<li>IV = 4
+<li>XIII = 13
+<li>XIIII = error, not a Roman Number
+<li>XIV = 14
