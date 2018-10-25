@@ -1,5 +1,4 @@
-<h1>Programming Project 1
-CSCI 371                                                
+<h1>Programming Project 1                                               
 
 <h2>Simulate a FSM
 
